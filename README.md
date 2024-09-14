@@ -36,7 +36,7 @@ To get started with the 1xbet Fishing Game Pattern Recognizer:
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/dinethlive/fishing-game-pattern-recognizer.git
+    git clone https://github.com/dinethlive/fishing-game-patterns-recognizer.git
     ```
 
 2. Install the required dependencies:
