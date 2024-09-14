@@ -1,4 +1,4 @@
-# 1xbet Fishing Game Pattern Recognizer
+# 1xbet Fishing Game Patterns Recognizer
 
 This is the **1xbet Fishing Game Pattern Recognizer** tool, developed using Python and the Tkinter library. This tool provides an easy-to-use graphical interface for analyzing patterns in CSV data, allowing users to detect frequently occurring patterns in the selected columns.
 <br> <br>
