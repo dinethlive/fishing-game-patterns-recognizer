@@ -53,10 +53,6 @@ To get started with the 1xbet Fishing Game Pattern Recognizer:
 
 Your feedback is vital to improving this tool! If you have any suggestions, spot a bug, or want to contribute to this project, please feel free to open an issue or submit a pull request.
 
-## Disclaimer
-
-This tool is for educational purposes only and does not promote any form of gambling.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
